@@ -1,0 +1,11 @@
+# build
+.venv
+.coverage
+dist
+__pycache__/
+
+# env
+.idea
+
+# examples
+sql_app.db
