@@ -1,6 +1,7 @@
 # Template for python rest services
 
 This repository is serving as a template to base python rest webservices on
+
 The scope of this service example covers:
 * Fastapi uvicorn service
 * SqlAlchemy setup
@@ -26,4 +27,5 @@ List all available nox sessions
 ## TODOS
 * Fix warnings
 * Setup alembic properly
+* Make example endpoint proper and semantically correct crud example
 
